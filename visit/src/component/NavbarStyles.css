@@ -28,3 +28,12 @@ cursor: pointer;
 	padding: 0.7rem 1rem;
 	white-space: nowrap;
 }
+
+.nav-links i {
+	padding-right: 15px;
+	
+}
+
+.nav-links:hover {
+	font-weight: bold;
+}
