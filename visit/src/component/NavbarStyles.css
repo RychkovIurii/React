@@ -1,0 +1,30 @@
+.NavbarItems {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 30px;
+	height: 90x;
+}
+
+.navbar-logo {
+color: #222;
+font-size: 1.5rem;
+cursor: pointer;
+}
+
+.nav-menu {
+	display: grid;
+	grid-template-columns: repeat(6, auto);
+	grid-gap: 40px;
+	list-style: none;
+	align-items: center; 
+}
+
+.nav-links {
+	text-decoration: none;
+	color: #222;
+	font-size: 1.2rem;
+	font-weight: 300;
+	padding: 0.7rem 1rem;
+	white-space: nowrap;
+}
