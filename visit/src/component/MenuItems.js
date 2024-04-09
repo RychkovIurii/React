@@ -1,12 +1,12 @@
 export const MenuItems = [
 	{
-		title: "Home",
+		title: "Places to stay",
 		url: "/",
 		cName: "nav-links",
 		icon: "fa-solid fa-campground"
 	},
 	{
-		title: "Place to go",
+		title: "Places to go",
 		url: "/place-to-go",
 		cName: "nav-links"
 	},
@@ -16,7 +16,7 @@ export const MenuItems = [
 		cName: "nav-links"
 	},
 	{
-		title: "Practical Tips",
+		title: "Practical tips",
 		url: "/practical-tips",
 		cName: "nav-links",
 	},

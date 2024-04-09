@@ -7,9 +7,13 @@
 }
 
 .navbar-logo {
-color: #222;
-font-size: 1.5rem;
-cursor: pointer;
+	display: flex;
+	align-items: center;
+	color: #222;
+	font-size: 1.5rem;
+	text-decoration: none;
+	white-space: nowrap;
+	cursor: pointer;
 }
 
 .nav-menu {
