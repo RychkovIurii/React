@@ -40,4 +40,5 @@
 
 .nav-links:hover {
 	font-weight: bold;
+	transition: 0.2s ease-in-out;
 }
