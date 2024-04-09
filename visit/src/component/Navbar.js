@@ -17,7 +17,7 @@ export default class Navbar extends Component {
 					<i className="fas fa-times"></i> */}
 					<i className={this.state.clicked ? "fas fa-times" : "fa-solid fa-bars"}></i>
 				</div>
-				<ul className="nav-menu">
+				<ul className={this.state.clicked ? "nav-menu active" : "nav-menu"}>
 					{MenuItems.map((item, index) => {
 						return(
 							<li key={index}>
@@ -28,8 +28,9 @@ export default class Navbar extends Component {
 							</li>
 						)
 					})}
+					<li><a href="./language"><i className="fa-solid fa-globe"></i>EN</a></li>
 				</ul>
-				<a href="./language"><i className="fa-solid fa-globe"></i>EN</a>
+				
 			</nav>
 		)
 	}
