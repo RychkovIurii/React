@@ -1,5 +1,4 @@
 import './App.css';
-import Navbar from './components/Navbar';
 import {Route, Routes} from "react-router-dom";
 import Home from './routes/Home';
 import ThingsToDo from './routes/ThingsToDo';
@@ -11,7 +10,7 @@ import PlacesToStay from './routes/PlacesToStay';
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      
 
       <Routes>
         <Route path='/' element={<Home/>}/>
