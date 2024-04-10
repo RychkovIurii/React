@@ -1,0 +1,37 @@
+.destination {
+	margin: 4rem 6rem;
+}
+
+.destination h1 {
+	font-size: 3rem;
+}
+
+.first-dest {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.image-dest {
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	width: 50%;
+}
+
+.image-dest img {
+	width: 50%;
+	height: 300px;
+	object-fit: cover;
+	border-radius: 8px;
+}
+
+.image-dest img:nth-child(2) {
+	position: absolute;
+	top: -10%;
+	right: 0;
+}
+
+.dest-text {
+	width: 50%;
+}
