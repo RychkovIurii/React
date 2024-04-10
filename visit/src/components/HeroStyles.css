@@ -1,6 +1,6 @@
 .hero {
 	width: 100%;
-	height: 100%;
+	height: 100vh;
 	position: relative;
 }
 
@@ -37,4 +37,21 @@
 	font-size: 2rem;
 	padding: 10px 20px;
 	color: black;
+}
+
+@media screen and (max-width: 600px) {
+	.hero-text h1 {
+		font-size: 2rem;
+		padding: 10px 20px;
+	}
+
+	.hero-text p {
+		font-size: 1.1rem;
+		padding: 0 0 2rem 0;
+	}
+
+	.hero-text .show {
+		font-size: 1rem;
+		padding: 0.6rem 1.1rem;
+	}
 }
