@@ -1,7 +1,7 @@
 import React from 'react';
 import Hero from '../components/Hero';
 import Navbar from '../components/Navbar';
-import heroImage from '../assets/papaveri.JPG';
+import heroImage from '../assets/hero1.jpeg';
 
 function Home(){
 	return(
