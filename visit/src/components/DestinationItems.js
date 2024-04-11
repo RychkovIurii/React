@@ -4,18 +4,18 @@ import "./DestinationStyles.css";
 export default class DestinationItems extends Component {
   render() {
 	return (
-		<div className="first-dest">
-		<div className="dest-text">
-			<h2>{this.props.title}</h2>
-			<p>
-				{this.props.text}
-			</p>
+		<div className={this.props.cNameDest}>
+			<div className="dest-text">
+				<h2>{this.props.title}</h2>
+				<p>
+					{this.props.text}
+				</p>
+			</div>
+			<div className="image-dest">
+				<img alt="img" src={this.props.img1}/>
+				<img alt="img" src={this.props.img2}/>
+			</div>
 		</div>
-		<div className="image-dest">
-			<img alt="img" src={this.props.img1}/>
-			<img alt="img" src={this.props.img2}/>
-		</div>
-	</div>
 	)
   }
 }
