@@ -8,6 +8,11 @@
 	z-index: 9999;
 	position: fixed;
 	color: #333;
+	background-color: rgba(255, 255, 255, 0);
+}
+
+.NavbarItems.scrolled {
+	background-color: rgba(255, 255, 255, 1);
 }
 
 .NavbarItems:hover {
