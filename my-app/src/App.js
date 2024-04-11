@@ -5,6 +5,7 @@ import './App.css';
 import Header from './component/Header';
 import ObjectFile from './component/ObjectFile';
 import LikesCounter from './component/LikesCounter';
+import ToDo from './component/ToDo';
 
 function App() {
 
@@ -25,7 +26,9 @@ function App() {
   return (
     <div className="App">
 
-      <LikesCounter/>
+      <ToDo/>
+
+{/*       <LikesCounter/>
 
       <h4>You click {counter} times.</h4>
       <button onClick = {()=>{
@@ -38,13 +41,17 @@ function App() {
       <button onClick = {change}> Like </button>
 
       <ObjectFile />
-
+ */}
 {/*       <h1>Hello {name}!</h1> */}
-      <Header name = "Ibrahim" grade = "3" array = {our_array} /> {/* My name is Ibrahim. Grade is 3. First element of array is 2 */}
-      <Header name = "Jussi" grade = {x} array = {our_array} /> {/* My name is Jussi. Grade is 5. First element of array is 2 */}
-      <Header name = {name} grade = {y} array = {our_array} />  {/* My name is Juri. Grade is 2. First element of array is 2 */}
-      <Header name = "John" grade = "4" array = {our_array} />  {/* My name is John. Grade is 4. First element of array is 2 */}
-      <Header array = {our_array} />      {/*   My name is . Grade is . First element of array is 2 */}
+
+
+{/*      <Header name = "Ibrahim" grade = "3" array = {our_array} /> {/* My name is Ibrahim. Grade is 3. First element of array is 2 */}
+{/*      <Header name = "Jussi" grade = {x} array = {our_array} /> {/* My name is Jussi. Grade is 5. First element of array is 2 */}
+{/*      <Header name = {name} grade = {y} array = {our_array} />  {/* My name is Juri. Grade is 2. First element of array is 2 */}
+{/*      <Header name = "John" grade = "4" array = {our_array} />  {/* My name is John. Grade is 4. First element of array is 2 */}
+{/*     <Header array = {our_array} />      {/*   My name is . Grade is . First element of array is 2 */}
+
+
 {/*       <Second/>
       <ul>
         <li><h5>x = {x}; y = {y}</h5></li>
