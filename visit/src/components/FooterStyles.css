@@ -63,3 +63,17 @@
 	padding-bottom: 0.4rem;
 	font-size: 1.1rem;
 }
+
+@media screen and (max-width: 850px) {
+	.footer {
+		padding: 4rem 2rem;
+	}
+
+	.footer i {
+		margin: 3rem 1rem 3rem 0;
+	}
+
+	.bottom div {
+		width: 50%;
+	}
+}
