@@ -1,0 +1,47 @@
+{
+	"navbar": {
+		"placeToStay": "Dove alloggiare",
+		"placeToGo": "Luoghi da visitare",
+		"thingsToDo": "Cose da fare",
+		"practicalTips": "Consigli pratici"
+	},
+	"hero": {
+		"heroHomeTitle": "Il tuo viaggio, la tua Via della Seta",
+		"heroHomeText": "Scegli la tua destinazione preferita",
+		"heroHomeLinkText": "Piano di viaggio",
+		"heroPlacesToStayTitle": "Dove alloggiare",
+		"heroPlacesToStayText": "Esplora gli alloggi unici dell'Asia Centrale: yurte, case di nomadi, o opzioni di lusso",
+		"heroPlacesToGoTitle": "Luoghi da visitare",
+		"heroHPlacesToGoText": "Scopri l'Asia Centrale: dalle città antiche ai paesaggi mozzafiato",
+		"heroThingsToDoTitle": "Cose da fare",
+		"heroThingsToDoText": "Goditi l'Asia Centrale: dai ritiri nella natura ai festival cittadini.",
+		"heroPracticalTipsTitle": "Consigli pratici",
+		"heroPracticalTipsText": "Sicurezza, sostenibilità, FAQ, navigazione e meteo."
+	},
+	"destination": {
+		"destH1": "Destinazioni popolari",
+		"destP": "Fuga urbana o ritiro nella natura? Trova qui la tua destinazione perfetta.",
+		"destTitle1": "Almaty, Kazakhstan",
+		"destText1": "Scopri Almaty, il cuore vibrante del Kazakhstan, dove il fascino urbano moderno incontra la selvaggia bellezza della natura. Situata ai piedi delle maestose montagne del Tien Shan, Almaty è una città che affascina con la sua unica miscela di storia, cultura e paesaggi mozzafiato. Dal verde tranquillo del Parco Panfilov alle strade vivaci del centro città, Almaty offre una gamma di esperienze. Gusta la cucina locale, esplora i mercati antichi, o prendi la funivia per la collina di Kok-Tobe per viste panoramiche che ti lasceranno senza parole. Che tu sia un avventuriero o un appassionato di cultura, Almaty promette momenti indimenticabili e scoperte ad ogni angolo. Pianifica oggi il tuo viaggio ad Almaty e intraprendi un'avventura dove lo spirito del Kazakhstan prende vita.",
+		"destTitle2": "Lago Ala-Kul, Kirghizistan",
+		"destText2": "Intraprendi un viaggio verso il lago Ala-Kul, la gemma nascosta del Kirghizistan situata in alta montagna nel Tien Shan. Questo stupendo lago turchese, posto ad un'altitudine di oltre 3.500 metri, offre una fuga serena nell'abbraccio della natura. Circondato da vette rocciose e prati lussureggianti, Ala-Kul è un paradiso per escursionisti e appassionati di attività all'aperto. Il trekking al lago sfida e premia con i suoi paesaggi mozzafiato, dai fiumi impetuosi alle viste alpine spettacolari. Campeggiando sulle sue acque cristalline sotto un cielo stellato, troverai pace e una profonda connessione con la natura. Il lago Ala-Kul non è solo una destinazione; è un'esperienza indimenticabile che mostra la bellezza incontaminata del Kirghizistan. Preparati per un'avventura che ti porterà attraverso alcuni dei paesaggi più spettacolari dell'Asia Centrale.",
+		"destTitle3": "Via della Seta: Kirghizistan, Kazakhstan, Uzbekistan",
+		"destText3": "Intraprendi un grande viaggio lungo la Via della Seta, dove le città vibranti di Bishkek, Almaty, Tashkent e Samarcanda ti aspettano per svelare le loro storie. Questo percorso leggendario, ricco di storia, offre un mosaico di culture, architetture e tradizioni. Inizia a Bishkek, capitale del Kirghizistan, dove il fascino dell'architettura sovietica si fonde con la modernità. Continua ad Almaty, il cuore culturale del Kazakhstan, situato contro l'imponente sfondo delle montagne del Tien Shan. Tashkent, la capitale dell'Uzbekistan, ti incanterà con il suo mix di edifici moderni e antica architettura islamica. Il viaggio culmina a Samarcanda, una città che cattura l'essenza della Via della Seta con i suoi monumenti imponenti e i mercati vivaci. Ogni tappa è un capitolo in un viaggio attraverso il tempo, offrendo uno sguardo alle vite dei mercanti, studiosi e conquistatori che un tempo percorrevano questa rotta. La Via della Seta è più di un viaggio; è un'esperienza che collega continenti, culture e secoli."
+	},
+	"footer": {
+		"footerP": "© 2024 Creato da irychkov. Tutti i diritti riservati.",
+		"contact": "Contatto",
+		"about": "Informazioni",
+		"others": "Altri",
+		"callUs": "Chiamaci",
+		"emailUs": "Scrivici",
+		"careers": "Carriere",
+		"aboutUs": "Chi siamo",
+		"staff": "Personale",
+		"partners": "I nostri partner",
+		"privacy": "Politica sulla privacy",
+		"license": "Licenza",
+		"terms": "Termini di uso",
+		"weather": "Meteo nelle città:"
+	}
+}
