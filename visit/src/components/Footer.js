@@ -35,7 +35,7 @@ export default function Footer() {
 				<h4>About</h4>
 				<a href='/'>About us</a>
 				<a href='/'>Staff</a>
-				<a href='/'>Website terms</a>
+				<a href='/'>Our Partners</a>
 			</div>
 			<div>
 				<h4>Others</h4>
