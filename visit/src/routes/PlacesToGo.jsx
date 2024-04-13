@@ -1,17 +1,19 @@
-import React from 'react';
+import React, { useContext } from 'react';
+import { LanguageContext } from "../context/LanguageContext";
 import Hero from '../components/Hero';
 import Navbar from '../components/Navbar';
 import heroImage from '../assets/hero8.jpeg';
 
 function PlacesToGo(){
+	const { t } = useContext(LanguageContext);
 	return(
 		<>
 			<Navbar/>
 			<Hero
 			cName = "heroToGo"
 			heroImage = {heroImage}
-			title = "Places to go"
-			text = "Discover Central Asia: From ancient cities to stunning landscapes"
+			title = {t("hero.heroPlacesToGoTitle")}
+			text = {t("hero.heroPlacesToGoText")}
 			linkClass = "hide"
 			/>
 		</>
