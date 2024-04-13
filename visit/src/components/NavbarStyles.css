@@ -81,6 +81,30 @@
 	display: none;
 }
 
+.language {
+	display: flex;
+	align-items: center;
+}
+
+.language .fa-globe {
+	margin-right: 0.5em;
+}
+
+.language select {
+	background-color: transparent;
+	font-weight: bold;
+	border: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	cursor: pointer;
+}
+
+.language select option {
+	background: transparent;
+	color: black;
+}
+
 @media screen and (max-width: 700px) {
 	.NavbarItems {
 		z-index: 9900;
