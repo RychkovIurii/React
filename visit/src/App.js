@@ -6,12 +6,13 @@ import Search from './routes/Search';
 import PracticalTips from './routes/PracticalTips';
 import PlacesToGo from './routes/PlacesToGo';
 import PlacesToStay from './routes/PlacesToStay';
+import { LanguageProvider } from "./context/LanguageContext";
 
 function App() {
   return (
     <div className="App">
       
-
+      <LanguageProvider>
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/places-to-stay' element={<PlacesToStay/>}/>
@@ -20,7 +21,7 @@ function App() {
         <Route path='/practical-tips' element={<PracticalTips/>}/>
         <Route path='/search' element={<Search/>}/>
       </Routes>
-
+      </LanguageProvider>
     </div>
   );
 }
