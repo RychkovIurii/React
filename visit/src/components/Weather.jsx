@@ -1,8 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
+import { LanguageContext } from "../context/LanguageContext";
 import './FooterStyles.css';
 
 const Weather = () => {
 	const [weatherData, setWeatherData] = useState([]);
+	const { t } = useContext(LanguageContext);
 
 	useEffect(() => {
 		const fetchWeatherData = async () => {
@@ -31,7 +33,7 @@ const Weather = () => {
 
 	return (
 		<div className='weather'>
-			<h4>Weather in cities:</h4>
+			<h4>{t("footer.weather")}</h4>
 			<ul>
 				{weatherData.map((cityData, index) => (
 					<li key={index}>

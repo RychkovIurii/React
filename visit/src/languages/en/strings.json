@@ -1,31 +1,9 @@
 {
 	"navbar": {
-		"placeToStay": {
-			"title": "Places to stay",
-            "url": "/places-to-stay",
-            "cName": "nav-links",
-            "icon": "fa-solid fa-campground"
-		},
-		"placeToGo": {
-			"title": "Places to go",
-            "url": "/places-to-go",
-            "cName": "nav-links"
-		},
-		"thingsToDo": {
-			"title": "Things to do",
-			"url": "/things-to-do",
-			"cName": "nav-links"
-		},
-		"practicalTips": {
-			"title": "Practical tips",
-			"url": "/practical-tips",
-			"cName": "nav-links"
-		},
-		"search": {
-			"url": "/search",
-			"cName": "nav-links",
-			"icon": "fa-solid fa-magnifying-glass"
-		}
+		"placeToStay": "Places to stay",
+		"placeToGo": "Places to go",
+		"thingsToDo": "Things to do",
+		"practicalTips": "Practical tips"
 	},
 	"hero": {
 		"heroHomeTitle": "Your Journey Your Silk Road",
