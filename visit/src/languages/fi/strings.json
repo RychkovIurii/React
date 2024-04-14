@@ -1,0 +1,47 @@
+{
+	"navbar": {
+		"placeToStay": "Majoituspaikat",
+		"placeToGo": "Käyntikohteet",
+		"thingsToDo": "Tekemistä",
+		"practicalTips": "Käytännön vinkkejä"
+	},
+	"hero": {
+		"heroHomeTitle": "Matkasi, Sinun Silkkitiesi",
+		"heroHomeText": "Valitse suosikkikohteesi",
+		"heroHomeLinkText": "Matkasuunnitelma",
+		"heroPlacesToStayTitle": "Majoituspaikat",
+		"heroPlacesToStayText": "Tutustu Keski-Aasian ainutlaatuisiin majoituspaikkoihin: jurtat, nomadien kodit tai luksusvaihtoehdot",
+		"heroPlacesToGoTitle": "Käyntikohteet",
+		"heroPlacesToGoText": "Löydä Keski-Aasia: muinaisista kaupungeista upeisiin maisemiin",
+		"heroThingsToDoTitle": "Tekemistä",
+		"heroThingsToDoText": "Nauti Keski-Aasiasta: luontoelämyksistä kaupunkifestivaaleihin",
+		"heroPracticalTipsTitle": "Käytännön vinkkejä",
+		"heroPracticalTipsText": "Turvallisuus, kestävyys, usein kysytyt kysymykset, navigointi ja sää"
+	},
+	"destination": {
+		"destH1": "Suositut kohteet",
+		"destP": "Kaupunkiloma vai luonnonrauha? Löydä täydellinen kohde täältä.",
+		"destTitle1": "Almaty, Kazakstan",
+		"destText1": "Tutustu Almatyyn, Kazakstanin sykkivään sydämeen, jossa moderni kaupunkiviehätys kohtaa luonnon villin kauneuden. Majesteettisten Tien Shan -vuorten juurella sijaitseva Almaty lumoaa ainutlaatuisella historia-, kulttuuri- ja henkeäsalpaavien maisemiensa yhdistelmällä. Panfilovin puiston rauhallisesta vehreydestä vilkkaan kaupungin keskustan katuille, Almaty tarjoaa monenlaisia kokemuksia. Nauti paikallisesta keittiöstä, tutustu muinaisiin markkinoihin tai tee köysirata-ajelu Kok-Tobe-vuorelle, josta avautuvat panoraamanäkymät lumoavat sinut. Oli sitten seikkailunhaluinen tai kulttuurista kiinnostunut, Almaty lupaa unohtumattomia hetkiä ja löytöjä joka askeleella. Suunnittele matkasi Almatyyn tänään ja lähde seikkailuun, jossa Kazakstanin henki herää eloon.",
+		"destTitle2": "Ala-Kul-järvi, Kirgisia",
+		"destText2": "Lähde matkalle Ala-Kul-järvelle, Kirgisian piilotetulle helmielle, joka sijaitsee korkealla Tien Shan -vuoristossa. Tämä upea turkoosinsininen järvi, yli 3500 metrin korkeudessa, tarjoaa rauhallisen pakopaikan luonnon syleilyssä. Karujen huippujen ja vehreiden niittyjen ympäröimä Ala-Kul on patikoijien ja ulkoilmaihmisten paratiisi. Järvelle johtava vaellus haastaa ja palkitsee henkeäsalpaavilla maisemilla, kuohuvista joista laajoihin alppinäkymiin. Leiriytyminen sen kristallinkirkkaiden vesien äärellä tähtitaivaan alla tarjoaa rauhaa ja syvän yhteyden luontoon. Ala-Kul-järvi ei ole vain kohde; se on unohtumaton kokemus, joka esittelee Kirgisian koskematonta kauneutta. Valmistaudu seikkailuun, joka vie sinut läpi Keski-Aasian upeimpien maisemien.",
+		"destTitle3": "Silkkitie: Kirgisia, Kazakstan, Uzbekistan",
+		"destText3": "Lähde suurelle matkalle Silkkitietä pitkin, missä värikkäät kaupungit Bishkek, Almaty, Tashkent ja Samarkand odottavat kertomaan tarinansa. Tämä legendaarinen reitti, rikas historiasta, tarjoaa kulttuurien, arkkitehtuurin ja perinteiden mosaiikin. Aloita matkasi Bishkekistä, Kirgisian pääkaupungista, jossa neuvostoajan arkkitehtuurin viehätys yhdistyy moderniuteen. Jatka Almatyyn, Kazakstanin kulttuuriseen sydämeen, majesteettisten Tien Shan -vuorten juurella. Uzbekistanin pääkaupunki Tashkent lumoaa sinut modernien rakennustensa ja muinaisen islamilaisen arkkitehtuurinsa yhdistelmällä. Matka huipentuu Samarkandiin, kaupunkiin, joka vangitsee Silkkitien olemuksen sen vaikuttavilla monumenteilla ja vilkkailla basaareilla. Jokainen pysäkki on luku ajassa, tarjoten vilauksen kauppiaiden, tiedemiesten ja valloittajien elämään, jotka kerran matkasivat tätä reittiä. Silkkitie on enemmän kuin matka; se on kokemus, joka yhdistää mantereita, kulttuureja ja vuosisatoja."
+	},
+	"footer": {
+		"footerP": "© 2024 Luonut irychkov. Kaikki oikeudet pidätetään.",
+		"contact": "Yhteystiedot",
+		"about": "Tietoa meistä",
+		"others": "Muut",
+		"callUs": "Soita meille",
+		"emailUs": "Lähetä sähköpostia",
+		"careers": "Urat",
+		"aboutUs": "Meistä",
+		"staff": "Henkilökunta",
+		"partners": "Yhteistyökumppanit",
+		"privacy": "Tietosuojakäytäntö",
+		"license": "Lisenssi",
+		"terms": "Käyttöehdot",
+		"weather": "Säätiedot kaupungeissa:"
+	}
+}
