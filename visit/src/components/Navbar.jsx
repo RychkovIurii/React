@@ -59,6 +59,8 @@ export default class Navbar extends Component {
 						<select value={language} onChange={(e) => updateLanguage(e.target.value)}>
 							<option value="en">EN</option>
 							<option value="it">IT</option>
+							<option value="fi">FI</option>
+							<option value="ru">RU</option>
 						</select>
 					</li>
 				</ul>

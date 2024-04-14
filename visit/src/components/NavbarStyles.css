@@ -62,13 +62,13 @@
 	text-decoration: none;
 	font-size: 1.2rem;
 	font-weight: 300;
-	padding: 0.7rem 1rem;
+	padding: 0.7rem 0.8rem;
 	white-space: nowrap;
 	color: #333;
 }
 
 .nav-links i {
-	padding-left: 20px;
+	padding-left: 6px;
 	
 }
 
