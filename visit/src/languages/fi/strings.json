@@ -28,6 +28,22 @@
 		"destTitle3": "Silkkitie: Kirgisia, Kazakstan, Uzbekistan",
 		"destText3": "Lähde suurelle matkalle Silkkitietä pitkin, missä värikkäät kaupungit Bishkek, Almaty, Tashkent ja Samarkand odottavat kertomaan tarinansa. Tämä legendaarinen reitti, rikas historiasta, tarjoaa kulttuurien, arkkitehtuurin ja perinteiden mosaiikin. Aloita matkasi Bishkekistä, Kirgisian pääkaupungista, jossa neuvostoajan arkkitehtuurin viehätys yhdistyy moderniuteen. Jatka Almatyyn, Kazakstanin kulttuuriseen sydämeen, majesteettisten Tien Shan -vuorten juurella. Uzbekistanin pääkaupunki Tashkent lumoaa sinut modernien rakennustensa ja muinaisen islamilaisen arkkitehtuurinsa yhdistelmällä. Matka huipentuu Samarkandiin, kaupunkiin, joka vangitsee Silkkitien olemuksen sen vaikuttavilla monumenteilla ja vilkkailla basaareilla. Jokainen pysäkki on luku ajassa, tarjoten vilauksen kauppiaiden, tiedemiesten ja valloittajien elämään, jotka kerran matkasivat tätä reittiä. Silkkitie on enemmän kuin matka; se on kokemus, joka yhdistää mantereita, kulttuureja ja vuosisatoja."
 	},
+	"card": {
+		"H1": "Kohokohdat",
+		"P": "Liity meihin paljastamaan Keski-Aasian kätketyt aarteet ja luomaan unohtumattomia muistoja yhdessä maailman kuvankauneimmista kulmista!",
+		"Title1": "Grigorievskoen rotko, Kirgisia",
+		"Text1": "Grigorievskoen rotko, Issyk-Kulin alueen helmi Kirgisiassa. Koe hillitsemätön vuoristomaisemien, vihreiden niittyjen ja koskemattomien vuoristojokien kauneus. Yksinoikeudellinen retkemme tarjoaa ainutlaatuisia vaellusreittejä, hevosratsastusseikkailuja ja mahdollisuuksia rentoutua luonnossa. Suunnittele täydellinen pakomatka: tutustu rotkon kasvistoon ja eläimistöön, jotka ovat tunnettuja sekä paikallisesti että kansainvälisesti, ja tule mukaan jännittäviin kulttuurifestivaaleihin.",
+		"Title2": "Nomadien maailmanpelit Kazakstanissa 2024",
+		"Text2": "Liity meihin 8.-14. syyskuuta 2024 Kazakstanissa Nomadien maailmanpeleihin. Tämä eläväinen tapahtuma esittelee perinteisiä nomadiurheilulajeja, musiikkia ja käsityötaitoja juhlistaen Keski-Aasian rikasta kulttuuriperintöä. Koe jännittäviä kilpailuja, kuten kok-boru ja hevoskilpailut, ja sukella nomadikansojen ainutlaatuisiin perinteisiin.",
+		"Title3": "Kel-Suu-järvi, Kirgisia",
+		"Text3": "Kel-Suu-järvi on ainutlaatuinen luonnonihme, joka sijaitsee Kirgisian Narynin alueen syrjäisessä osassa. Järvi houkuttelee matkailijoita mystisillä vesillään ja dramaattisilla vuoristomaisemillaan. Kel-Suun seikkailut sisältävät vaellusta, tähtien tarkkailua ja mahdollisuuden tutkia harvoin vierailluja vuoristoalueita. Järvelle suuntautuvat retket lupaavat paitsi henkeäsalpaavia näkymiä myös yksinäisyyttä villissä luonnossa, tehden matkasta unohtumattoman seikkailun luonnon ja rauhan ystäville.",
+		"Title4": "Furmanovin huippu, Kazakstan",
+		"Text4": "Furmanovin huippu, joka sijaitsee lähellä Almatya, on suosittu kohde vaeltajien ja kiipeilijöiden keskuudessa. Tarjoten upeat panoraamanäkymät ympäröiville Tien Shan -vuorille, tämä huippu on saavutettavissa sekä aloittelijoille että kokeneille seikkailijoille. Tutki vehreitä polkuja ja nauti henkeäsalpaavista maisemista, jotka lupaavat jännittävän ulkoilukokemuksen.",
+		"Title5": "Kolsay, Kazakstan",
+		"Text5": "Vieraile Kolsay-järvillä, Kazakstanin luonnonparatiisissa, joka on täydellinen paikka luonnon ystäville ja valokuvaajille. Vuorten keskellä sijaitsevat nämä kolme alppijärveä tunnetaan kirkkaista vesistään ja viehättävästä metsämaisemastaan. Toimintaan kuuluu vaellus, ratsastus ja yöpyminen ulkona, mikä tekee Kolsaysta välttämättömän kohteen unohtumattomalle luontopakomatkalle.",
+		"Title6": "Turkestan, Kazakstan",
+		"Text6": "Turkestan on historiallinen kaupunki, joka on kyllästetty kulttuurisella ja henkisellä merkityksellä. Kaupungissa sijaitseva upea Khoja Ahmed Yasawin mausoleumi, UNESCO:n maailmanperintökohde, tarjoaa syvällisen sukelluksen alueen arkkitehtoniseen ja uskonnolliseen historiaan. Tutustu muinaisiin rakennelmiin ja opi Sufi-hengellisistä käytännöistä, jotka ovat muokanneet tätä ikonista kohdetta."
+	},
 	"footer": {
 		"footerP": "© 2024 Luonut irychkov. Kaikki oikeudet pidätetään.",
 		"contact": "Yhteystiedot",
