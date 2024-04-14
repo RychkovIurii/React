@@ -5,6 +5,7 @@
 
 .card h1 {
 	font-size: 3rem;
+	padding-bottom: 0.8rem;
 }
 
 .setOf3cards {
@@ -22,7 +23,7 @@
 	padding: 1rem;
 }
 
-.card-div h4 {
+.card-div h2 {
 	font-size: 1.3rem;
 	padding: 1rem 0.2rem;
 }
