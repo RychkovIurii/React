@@ -5,6 +5,7 @@ import heroImage from '../assets/hero1.jpeg';
 import Destination from '../components/Destination';
 import Footer from '../components/Footer';
 import { LanguageContext } from "../context/LanguageContext";
+import Card from '../components/Card';
 
 
 function Home(){
@@ -22,6 +23,7 @@ function Home(){
 			url = "/"
 			/>
 			<Destination/>
+			<Card/>
 			<Footer/>
 		</>
 	)
