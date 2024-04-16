@@ -1,12 +1,12 @@
 {
 	"navbar": {
-		"placeToStay": "Majoituspaikat",
-		"placeToGo": "Käyntikohteet",
-		"thingsToDo": "Tekemistä",
+		"placeToStay": "Majoitus",
+		"placeToGo": "Nähtävyydet",
+		"thingsToDo": "Elämykset",
 		"practicalTips": "Käytännön vinkkejä"
 	},
 	"hero": {
-		"heroHomeTitle": "Matkasi, Sinun Silkkitiesi",
+		"heroHomeTitle": "Sinun matkasi, Sinun Silkkitiesi",
 		"heroHomeText": "Valitse suosikkikohteesi",
 		"heroHomeLinkText": "Matkasuunnitelma",
 		"heroPlacesToStayTitle": "Majoituspaikat",
@@ -45,7 +45,7 @@
 		"Text6": "Turkestan on historiallinen kaupunki, joka on kyllästetty kulttuurisella ja henkisellä merkityksellä. Kaupungissa sijaitseva upea Khoja Ahmed Yasawin mausoleumi, UNESCO:n maailmanperintökohde, tarjoaa syvällisen sukelluksen alueen arkkitehtoniseen ja uskonnolliseen historiaan. Tutustu muinaisiin rakennelmiin ja opi Sufi-hengellisistä käytännöistä, jotka ovat muokanneet tätä ikonista kohdetta."
 	},
 	"stay": {
-		"H1": "Parhaat Valinnat",
+		"H1": "Suosittelemme",
 		"P": "Liity meihin tutkimaan Keski-Aasian mielenkiintoisimpia majoitusvaihtoehtoja, joiden ympäröimänä voit luoda unohtumattomia muistoja henkeäsalpaavissa maisemissa!",
 		"Title1": "Chunkurchak Resort, Kirgisia",
 		"Text1": "Chunkurchak Resort on ympärivuotinen kohde, joka sopii täydellisesti perheille ja seikkailunhaluisille matkailijoille. Sijaitsee vain lyhyen ajomatkan päässä Bishkekistä, ja tarjoaa monipuolisia ulkoilma-aktiviteetteja, kuten laskettelua talvella ja vaellusta kesällä. Lomakeskus tarjoaa mukavaa majoitusta, poikkeuksellista palvelua ja upeat vuoristonäkymät, mikä tekee siitä ihanteellisen paikan rentouttavalle lomalle tai aktiivilomalle.",
@@ -67,7 +67,7 @@
 		"others": "Muut",
 		"callUs": "Soita meille",
 		"emailUs": "Lähetä sähköpostia",
-		"careers": "Urat",
+		"careers": "Uramahdollisuudet",
 		"aboutUs": "Meistä",
 		"staff": "Henkilökunta",
 		"partners": "Yhteistyökumppanit",
