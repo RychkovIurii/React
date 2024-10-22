@@ -1,0 +1,16 @@
+.navigation {
+	width: 200px;
+	background-color: #EDE8F5;
+	color: #3D52A0;
+	padding: 20px;
+}
+
+.navigation ul {
+	list-style: none;
+	padding: 0;
+}
+
+.navigation li {
+	margin: 10px 0;
+	cursor: pointer;
+}

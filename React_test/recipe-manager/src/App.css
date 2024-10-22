@@ -1,0 +1,132 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 10px;
+	background-color: #f9f9f9;
+}
+
+h1 {
+	color: #333;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+}
+
+.left-pane {
+	width: 30%;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 3px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin-right: 10px;
+}
+
+.right-pane {
+	width: 70%;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#search {
+	width: calc(100% - 22px);
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+#search-button,
+#mealdb-search-button,
+#tag-filter-button,
+button[type="submit"] {
+	padding: 10px 15px;
+	background-color: #007bff;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
+
+#search-button:hover,
+#mealdb-search-button:hover,
+#tag-filter-button:hover,
+button[type="submit"]:hover {
+	background-color: #0056b3;
+}
+
+#filter-section {
+	margin-bottom: 10px;
+}
+
+#recipe-list,
+#recipe-form,
+#recipe-details,
+#mealdb-details {
+	margin-bottom: 10px;
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#recipe-list h2,
+#recipe-form h2,
+#recipe-details h2,
+#mealdb-details h2 {
+	color: #555;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	background-color: #f8f8f8;
+	margin: 5px 0;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+li:hover {
+	background-color: #e9e9e9;
+}
+
+label {
+	display: block;
+	margin: 5px 0 5px;
+	color: #555;
+}
+
+input[type="text"],
+textarea,
+select {
+	width: calc(100% - 22px);
+	padding: 5px;
+	margin-bottom: 5px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+#details h3 {
+	margin-top: 0;
+}
+
+#details p {
+	margin: 5px 0;
+}
+
+#mealdb-search-section {
+	margin-top: 20px;
+}
+
+#mealdb-result img {
+	max-width: 200px;
+	height: auto;
+}  

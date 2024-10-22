@@ -1,0 +1,43 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 20px;	
+	background-color: #EDE8F5;
+	color: #3D52A0;
+  }
+  
+  .header-left {
+	display: flex;
+	align-items: center;
+  }
+  
+  .logo {
+	width: 140px;
+	height: 140px;
+	margin-right: 10px;
+  }
+  
+  .site-info {
+	display: flex;
+	flex-direction: column;
+  }
+  
+  .header-right {
+	display: flex;
+	align-items: center;
+  }
+  
+  .search-bar {
+	padding: 8px;
+	margin: 10px;
+  }
+  
+  .login-button {
+	padding: 5px 10px;
+	background-color: #3D52A0;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+  }
+  

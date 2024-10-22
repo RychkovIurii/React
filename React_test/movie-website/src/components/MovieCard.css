@@ -1,0 +1,41 @@
+
+.movie-card {
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	transition: transform 0.3s;
+}
+
+.movie-card:hover {
+	transform: scale(1.05);
+}
+
+.movie-card img {
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
+
+.movie-card .buttons {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 10px;
+}
+
+.movie-card .like-button,
+.movie-card .dislike-button,
+.movie-card .watch-later-button {
+	padding: 5px 10px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+	transition: background-color 0.3s, transform 0.3s;
+}
+
+.movie-card .like-button:hover,
+.movie-card .dislike-button:hover,
+.movie-card .watch-later-button:hover {
+	transform: scale(1.1);
+}

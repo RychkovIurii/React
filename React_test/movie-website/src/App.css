@@ -1,0 +1,20 @@
+.main-content {
+  display: flex;
+}
+
+.content-area {
+  flex-grow: 1;
+  width: 80%;
+  padding: 20px;
+}
+
+.banner {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.banner img {
+  width: 48%;
+  height: auto;
+}
